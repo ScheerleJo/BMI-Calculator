@@ -1,0 +1,18 @@
+﻿todo 
+    (- Cooldown für Bmierrechnen button?)
+    - Ladebalken grüne Häckschen
+
+Extra Funktionen
+done    - Als Gast Berechnen
+done    - Anmeldesystem
+done    - Anmelde E-Mail
+done    - Passwort vergessen System
+done    - Speichern/Laden der Persönlichen Daten / letzte Daten abrufen
+done    - Verlauf von Daten der letzten Male beim Errechnen des Bmi über Zeit in Diagrammen
+done    - Progessbar zum Laden des Bmi-Rechner
+done    - Registerkarten in den Bmi Rechnern
+
+Anmeldedaten Outlookaccount
+
+    Scheerle1604Mueller3007
+	bmirechner.register@outlook.de

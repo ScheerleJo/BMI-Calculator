@@ -1,0 +1,28 @@
+﻿todo 
+    - 5-10 letzte Male im Verlauf abspeichern in der eigenen Textdatei des Users verschlüsselt abspeichern
+    - Wenn cbGeschlecht geändert wird passt sich ein Bild auf der Seite dem Geschlecht an
+    - Icon in jedem Form
+    - Cooldown fr Bmierrechnen button?
+    - Login Clear über F5 Button click
+   
+Links:
+    - Diagramme erstellen
+            https://www.coders-online.net/192
+    - Alle Forms Schließen
+            https://www.mycsharp.de/wbb2/thread.php?postid=291042
+
+
+Extra Funktionen
+done    - Als Gast Berechnen
+done    - Anmeldesystem
+done    - Anmelde E-Mail
+done    - Passwort vergessen System
+done    - Speichern/Laden der Persönlichen Daten / letzte Daten abrufen
+done    - Verlauf von Daten der letzten Male beim Errechnen des Bmi über Zeit in Diagrammen
+done    - Progessbar zum Laden des Bmi-Rechner
+done    - Registerkarten in den Bmi Rechnern
+
+Anmeldedaten Outlookaccount
+
+    Scheerle1604Mueller3007
+	bmirechner.register@outlook.de
